@@ -1,0 +1,17 @@
+logrotate state -- version 2
+"/home/ashwag/.cache/upstart/update-notifier-release.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/unity-panel-service.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/gnome-keyring.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/unity7.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/gnome-keyring-ssh.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/bamfdaemon.log" 2017-11-13-14:52:33
+"/home/ashwag/.cache/upstart/update-notifier-cds.log" 2017-11-3-13:18:31
+"/home/ashwag/.cache/upstart/indicator-sound.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/upstart-event-bridge.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/window-stack-bridge.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/unity-settings-daemon.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/hud.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/ssh-agent.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/unity-panel-service-lockscreen.log" 2018-1-14-19:8:51
+"/home/ashwag/.cache/upstart/dbus.log" 2018-1-27-21:31:54
+"/home/ashwag/.cache/upstart/gpg-agent.log" 2018-1-27-21:31:54

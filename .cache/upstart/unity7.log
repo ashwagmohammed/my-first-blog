@@ -1,0 +1,91 @@
+1517080174781	addons.xpi	WARN	Expected add-on followonsearch@mozilla.com is missing from the system add-on location.
+1517080176341	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517080176344	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517080176388	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517080176399	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+
+(firefox:2691): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+1517080687287	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517080687299	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517080688748	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1517080688757	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1517080688773	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1517080688780	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1517080688788	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1517080691939	addons.manager	WARN	Exception calling callback: TypeError: a is null (resource://gre/modules/addons/XPIProvider.jsm:8777:49) JS Stack trace: .installAddonSet</<@XPIProvider.jsm:8777:49 < safeCall@AddonManager.jsm:196:5 < makeSafe/<@AddonManager.jsm:211:25 < process@Promise-backend.js:922:23 < walkerLoop@Promise-backend.js:806:7 < scheduleWalkerLoop/<@Promise-backend.js:742:11
+1517080691941	addons.manager	WARN	Exception calling callback: TypeError: a is null (resource://gre/modules/addons/XPIProvider.jsm:8777:49) JS Stack trace: .installAddonSet</<@XPIProvider.jsm:8777:49 < safeCall@AddonManager.jsm:196:5 < makeSafe/<@AddonManager.jsm:211:25 < process@Promise-backend.js:922:23 < walkerLoop@Promise-backend.js:806:7 < scheduleWalkerLoop/<@Promise-backend.js:742:11
+1517080691942	addons.manager	WARN	Exception calling callback: Error: Cannot uninstall addon e10srollout@mozilla.org from locked install location app-system-defaults (resource://gre/modules/addons/XPIProvider.jsm:5174:13) JS Stack trace: uninstallAddon@XPIProvider.jsm:5174:13 < uninstall@XPIProvider.jsm:7646:5 < .installAddonSet</<@XPIProvider.jsm:8777:49 < safeCall@AddonManager.jsm:196:5 < makeSafe/<@AddonManager.jsm:211:25 < process@Promise-backend.js:922:23 < walkerLoop@Promise-backend.js:806:7 < scheduleWalkerLoop/<@Promise-backend.js:742:11
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+1517080807528	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517080807529	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517080925735	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517080925737	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517252609680	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517252609686	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517252610851	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1517252610861	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1517252610877	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1517252611121	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1517252611177	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1517252611407	addons.update-checker	WARN	Update manifest for timecop@mozilla.com did not contain an updates property
+1517252611418	addons.update-checker	WARN	Update manifest for disable-crash-autosubmit@mozilla.org did not contain an updates property
+1517252611978	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1517252729515	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517252729517	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+1517252848179	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517252848180	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517341086452	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517341086453	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+1517341087655	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1517341088009	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1517341088298	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1517341088524	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1517341088577	addons.update-checker	WARN	Update manifest for timecop@mozilla.com did not contain an updates property
+1517341088590	addons.update-checker	WARN	Update manifest for disable-crash-autosubmit@mozilla.org did not contain an updates property
+1517341089142	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1517341091461	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1517341207536	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517341207537	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+1517341323983	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1517341323986	addons.xpi	WARN	Add-on langpack-en-ZA@firefox.mozilla.org is not compatible with application version.
